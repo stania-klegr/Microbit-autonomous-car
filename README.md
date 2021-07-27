@@ -1,0 +1,1 @@
+This repo is for an autonomous car based around the BBC Microbit. It uses a variety of sensors including ultrasound, compass, and light to navigate around a paper parking lot. It also communicates via Bluetooth Low Energy with a base station, allowing for the selection of and automatic navigation to a specific parking lot.
